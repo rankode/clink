@@ -1,12 +1,6 @@
-#a {
-  font:white;
-}
-
 .text-js {
   opacity: 0;
-  font: #ffffff;
   font-family: Arial;
-  font-size: 32px;
 }
 
 .cursor {
@@ -61,7 +55,6 @@ body {
   h1 {
     letter-spacing: 1.6px;
     font-weight: 300;
-    font: #ffffff;
   }
 }
 
