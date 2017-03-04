@@ -32,7 +32,8 @@
   margin: 0;
   padding: 0;
   boz-sizing: border-box;
-  font-family: "Open Sans", sans-serif
+  font-family: "Open Sans", Arial;
+  font-size: 32px;
 }
 
 body {
@@ -52,6 +53,13 @@ body {
   h1 {
     letter-spacing: 1.6px;
     font-weight: 300;
+    font-size: 32px;
+    color: white;
   }
 }
 
+#wh {
+ font: white;
+ font-size; 32px;
+ font-family: "Open Sans", Arial; 
+}
