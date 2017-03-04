@@ -1,6 +1,5 @@
 .text-js {
   opacity: 0;
-  width: 655px;
 }
 
 .cursor {
@@ -33,7 +32,8 @@
   margin: 0;
   padding: 0;
   boz-sizing: border-box;
-  font-family: "Open Sans", sans-serif
+  font-family: "Open Sans", sans-serif;
+  width: 700px;
 }
 
 body {
@@ -58,5 +58,8 @@ body {
   }
 }
 
-
+.mini {
+    width: 700px;
+    margin: auto;
+}
 
