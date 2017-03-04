@@ -32,7 +32,7 @@
   margin: 0;
   padding: 0;
   boz-sizing: border-box;
-  font-family: "Open Sans", Arial;
+  font-family: Arial, Calibri;
   font-size: 32px;
 }
 
@@ -56,10 +56,4 @@ body {
     font-size: 32px;
     color: white;
   }
-}
-
-#wh {
- font: white;
- font-size; 32px;
- font-family: "Open Sans", Arial; 
 }
